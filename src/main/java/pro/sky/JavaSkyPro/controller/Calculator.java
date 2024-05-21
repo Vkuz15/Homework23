@@ -61,3 +61,4 @@ public class Calculator {
         return String.format("<h1>%d %c %d = %d</h1>", num1, action, num2, result);
     }
 }
+
