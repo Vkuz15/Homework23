@@ -18,7 +18,7 @@ public class Calculator {
 
     @GetMapping
     public String calculatorStart() {
-        return calculatorService.calculatorStart();
+        return "<h1>Добро пожаловать в калькулятор</h1>";
     }
 
     @GetMapping("/plus")
@@ -61,3 +61,4 @@ public class Calculator {
         return String.format("<h1>%d %c %d = %d</h1>", num1, action, num2, result);
     }
 }
+

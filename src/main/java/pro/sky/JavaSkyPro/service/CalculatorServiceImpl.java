@@ -8,7 +8,7 @@ public class CalculatorServiceImpl implements CalculatorService {
 
     @Override
     public String calculatorStart() {
-        return "<h1>Добро пожаловать в калькулятор</h1>";
+        return null;
     }
 
     @Override
@@ -34,3 +34,4 @@ public class CalculatorServiceImpl implements CalculatorService {
         return num1 / num2;
     }
 }
+
