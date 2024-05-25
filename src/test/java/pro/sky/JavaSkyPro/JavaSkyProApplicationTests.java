@@ -9,5 +9,4 @@ class JavaSkyProApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }

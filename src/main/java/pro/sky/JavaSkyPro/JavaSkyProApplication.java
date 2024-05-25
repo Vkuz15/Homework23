@@ -10,3 +10,4 @@ public class JavaSkyProApplication {
 		SpringApplication.run(JavaSkyProApplication.class, args);
 	}
 }
+

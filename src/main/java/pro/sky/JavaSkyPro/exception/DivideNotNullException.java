@@ -10,3 +10,4 @@ public class DivideNotNullException extends IllegalArgumentException {
     }
 }
 
+
